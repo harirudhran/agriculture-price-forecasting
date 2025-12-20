@@ -1,0 +1,6 @@
+Django  
+Pandas  
+NumPy  
+Statsmodels  
+Matplotlib  
+Seaborn 
