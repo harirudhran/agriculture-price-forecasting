@@ -4,3 +4,4 @@ NumPy
 Statsmodels  
 Matplotlib  
 Seaborn 
+openpyxl
