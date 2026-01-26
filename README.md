@@ -1,29 +1,9 @@
+![Project Preview](images/agri.png)
+
 # 🌾 Agricultural Commodity Prices Forecasting using ARIMA & SARIMA
 
 A **Django-based web application** that forecasts agricultural commodity prices using **ARIMA** and **SARIMA** time-series models.  
 This project helps analyze historical price trends and predict future prices to support **data-driven agricultural and business decisions**.
-
----
-
-## 📖 Table of Contents
-
-- Introduction  
-- Problem Statement  
-- Objectives  
-- Features  
-- Technologies Used  
-- Project Architecture  
-- Project Structure  
-- Dataset Description  
-- Models Used  
-- Installation & Setup  
-- How to Run the Project  
-- Model Evaluation  
-- Results & Output  
-- Future Enhancements  
-- Applications  
-- License  
-- Author  
 
 ---
 
@@ -35,7 +15,6 @@ Forecasting these prices helps farmers, traders, and policymakers make informed 
 This project integrates **ARIMA** and **SARIMA** forecasting models into a **Django web application** for interactive analysis.
 
 ---
-![Project Preview](images/agri.png)
 
 ## ❓ Problem Statement
 
