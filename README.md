@@ -35,6 +35,7 @@ Forecasting these prices helps farmers, traders, and policymakers make informed 
 This project integrates **ARIMA** and **SARIMA** forecasting models into a **Django web application** for interactive analysis.
 
 ---
+![Project Preview](images/agri.png)
 
 ## ❓ Problem Statement
 
