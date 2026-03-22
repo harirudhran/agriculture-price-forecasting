@@ -23,9 +23,10 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-c#ixhg5s59-3#g+-(-y8z_bw&c$g_xz$s)id&rqu2ombgb*r2o'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+# You can add the specific domain or use '*' to allow everything (easiest for testing)
+ALLOWED_HOSTS = ['agriculture-price-forecasting.onrender.com', 'localhost', '127.0.0.1']
 
 import os
 DATA_DIR = os.path.join(BASE_DIR, 'data')
